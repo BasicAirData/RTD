@@ -15,7 +15,7 @@ http://www.basicairdata.eu/about.html
 
 ON LINE REFERENCES :
 
-Main site http://www.basicairdata.eu/android-air-properties.html
+Main site http://www.basicairdata.eu/android-rtd.html
 
 Forum http://basicairdata.freeforums.org/
 

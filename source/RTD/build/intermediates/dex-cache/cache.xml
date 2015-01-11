@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/larry/AndroidStudioProjects/RTD/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/larry/AndroidStudioProjects/RTD/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-16c6dea814a25aadc5d9b10e506a64be82ff89ec.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/RTD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/larry/AndroidStudioProjects/RTD/app/build/intermediates/pre-dexed/debug/classes-227eb31ba6f795d55cfad7cc0227bdda12b7e402.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/CIPM91AirDensity/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/larry/AndroidStudioProjects/CIPM91AirDensity/app/build/intermediates/pre-dexed/debug/classes-f57b82ae2c56de146e5add0f9bd49b9d83180ca1.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/CIPM91AirDensity/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/larry/AndroidStudioProjects/CIPM91AirDensity/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-d339e6d28d24507796bb875f400d1899629e1bfd.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/RTD/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/larry/AndroidStudioProjects/RTD/app/build/intermediates/pre-dexed/debug/classes-d587c4ad30aca3c7a9c678b704a5a0a6ac53432b.jar" />
+    </item>
+    <item
+        jar="/home/larry/java/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/larry/AndroidStudioProjects/CIPM91AirDensity/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-88bdd9ede59038440a6827327a79c850d21cb19a.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/CIPM91AirDensity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/larry/AndroidStudioProjects/CIPM91AirDensity/app/build/intermediates/pre-dexed/debug/classes-d712694487c9b1f5da82365bd681874dc37b900a.jar" />
+    </item>
+
+</items>

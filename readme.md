@@ -1,36 +1,21 @@
-BasicAirData (c) 2014 JLJ
+#BasicAirData-01-RTD
 
-This repository is fo the Resistance Temperature Detector project, a calculator for Android mobile devices
+[BasicAirData](http://www.basicairdata.eu) Open and free DIY air data instrumentation and telemetry 
 
-Application is freely downloadable from Google Play(tm)Store.
-https://play.google.com/store/apps/details?id=eu.basicairdata.jlj.RTD
+![TempImage](https://cloud.githubusercontent.com/assets/7497614/7476298/ecaa76ee-f34c-11e4-8d40-61ba5fb5f250.png)
 
-BasicAirData is devoted to Open and free DIY air data instrumentation and telemetry. Downloadable description http://www.basicairdata.eu/attachments/others/BAD%20Brochure.pdf Every feedback and feature proposal is welcome
+##Description##
 
-JLJ
+Resistance Temperature Detector calculator for Android mobile devices
 
-CURRENT MEMBERS :
+[Application is freely downloadable from Google Play(tm)Store](https://play.google.com/store/apps/details?id=eu.basicairdata.jlj.RTD)
 
-http://www.basicairdata.eu/about.html
+##License##
+BasicAirData is free software licensed under [GNU GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.txt) General Public License
+[License information](http://www.basicairdata.eu/copyright.html)
 
-ON LINE REFERENCES :
+##Info##
+[Online](http://www.basicairdata.eu/social.html)
 
-Main site http://www.basicairdata.eu/android-rtd.html
-
-Forum http://basicairdata.freeforums.org/
-
-SOCIAL :
-
-Facebook page
-
-https://www.facebook.com/BasicAirData
-
-Google+
-
-https://plus.google.com/+basicairdataeu
-
-Twitter
-
-https://twitter.com/BasicAirData
-
-
+##Acknowledgements##
+[Current members](http://www.basicairdata.eu/about.html)

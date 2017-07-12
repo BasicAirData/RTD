@@ -16,5 +16,5 @@ Resistance Temperature Detector calculator for Android mobile devices
 
 [Contributing Information](CONTRIBUTING.md)
 
-[Genearal Repository License](LICENSE)
+[Repository License](LICENSE)
 
